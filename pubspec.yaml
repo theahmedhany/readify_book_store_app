@@ -1,0 +1,64 @@
+name: readify_book_store_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  cached_network_image: ^3.4.1
+  cupertino_icons: ^1.0.6
+  dartz: ^0.10.1
+  dio: ^5.6.0
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.1
+  font_awesome_flutter: ^10.7.0
+  get_it: ^7.7.0
+  go_router: ^14.2.6
+  google_fonts: ^6.2.1
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"  # Logo image path 
+  min_sdk_android: 21
+
+
+
+flutter_native_splash:
+  color: "#C9DABF"   # Color of the background of the splash screen 
+  image: assets/images/Splash_Screen.png  # image path
+  android_12:
+    image: assets/images/Splash_Screen.png  # image path
+    color: "#C9DABF"   # Color of the background of the splash screen 
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: GT Sectra Fine Regular
+      fonts:
+        - asset: assets/fonts/GT Sectra Fine Regular.ttf
+    - family: NewAmsterdam
+      fonts:
+        - asset: assets/fonts/NewAmsterdam-Regular.ttf
