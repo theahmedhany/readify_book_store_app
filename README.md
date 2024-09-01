@@ -35,7 +35,7 @@ Readify is designed with a focus on efficiency and user satisfaction. By leverag
 https://github.com/user-attachments/assets/163ea1d3-d699-4cf8-b099-50ac4c87d2a7
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-mobileappdevelopment-activity-7235950761929568257-jEod?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 
 -----
